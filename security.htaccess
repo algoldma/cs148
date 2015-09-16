@@ -1,0 +1,6 @@
+<Files *>
+AuthType WebAuth
+require user yourUsername yourInstructor etc.
+satisfy any
+order allow,deny
+</Files>
