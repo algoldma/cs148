@@ -32,7 +32,6 @@ $query = 'SELECT fnkTeacherNetId FROM tblSections;';
 
 //print '</article>';
 ?>
-<a href="select.php?q=1;">Query 1</a>
 <?php
 include "footer.php";
 ?>
