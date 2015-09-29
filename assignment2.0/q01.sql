@@ -1,1 +1,0 @@
-SELECT fnkTeacherNetId FROM tblSections;
